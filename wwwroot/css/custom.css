@@ -17,3 +17,10 @@ label {
 div {
     margin-bottom: .5em;
 }
+
+.side-img {
+    float: right;
+
+    border: 2px solid #eeeeee;
+    border-radius: 5px;
+}
